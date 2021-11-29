@@ -1,8 +1,18 @@
 .my-red {
-    color: red;
+  color: red;
 }
 
 .my-red-bolder {
-    color: red;
-    font-weight: bolder;
+  color: red;
+  font-weight: bolder;
+}
+
+/* 表格全局样式：表头内容强制在一行显示 */
+table th {
+  white-space: nowrap;
+}
+
+/* 表格全局样式：鼠标悬浮时该行改变背景色 */
+table tr:hover {
+    background: #efefef; 
 }
