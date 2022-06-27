@@ -6,6 +6,8 @@
     
     <lastmod>2022-05-12</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -13,6 +15,8 @@
     
     <lastmod>2021-11-29</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -20,6 +24,8 @@
     
     <lastmod>2021-11-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -27,6 +33,8 @@
     
     <lastmod>2021-11-21</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -34,6 +42,8 @@
     
     <lastmod>2021-11-21</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -41,6 +51,8 @@
     
     <lastmod>2021-11-20</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -48,6 +60,8 @@
     
     <lastmod>2021-11-14</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -55,6 +69,8 @@
     
     <lastmod>2021-09-19</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -62,6 +78,8 @@
     
     <lastmod>2021-09-11</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -69,6 +87,8 @@
     
     <lastmod>2021-09-11</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -76,6 +96,8 @@
     
     <lastmod>2021-09-11</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -83,6 +105,8 @@
     
     <lastmod>2021-09-11</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -90,6 +114,8 @@
     
     <lastmod>2021-09-11</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -97,6 +123,8 @@
     
     <lastmod>2021-09-11</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -104,6 +132,8 @@
     
     <lastmod>2021-09-11</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
@@ -111,6 +141,8 @@
     
     <lastmod>2021-09-11</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
 
@@ -125,99 +157,99 @@
   <url>
     <loc>https://hormones.github.io/tags/V2/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/tags/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/tags/Github-Pages/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/tags/Hexo/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/tags/SQL%E8%AF%AD%E6%B3%95/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/tags/docker%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/tags/nextcloud%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/tags/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/tags/%E6%95%B0%E6%8D%AE%E4%BC%A0%E8%BE%93%E5%8A%A0%E5%AF%86/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/tags/windows%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/tags/BUG/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/tags/%E8%A5%BF%E6%B8%B8%E8%AE%B0/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
 
@@ -225,120 +257,120 @@
   <url>
     <loc>https://hormones.github.io/categories/V2/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/categories/%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/categories/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/categories/Blog/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/categories/Database/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/categories/Docker/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/categories/Nextcloud/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/categories/Windows/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/categories/Database/MariaDB/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/categories/Database/PostgreSQL/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/categories/%E5%89%8D%E7%AB%AF/%E5%90%8E%E7%AB%AF/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/categories/Windows/Docker/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/categories/Windows/%E4%BD%BF%E7%94%A8%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/categories/%E5%89%8D%E7%AB%AF/AngularJs/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/categories/%E5%89%8D%E7%AB%AF/%E5%90%8E%E7%AB%AF/%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://hormones.github.io/categories/%E5%BD%B1%E8%A7%86/</loc>
     <lastmod>2022-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
   </url>
   
 </urlset>
