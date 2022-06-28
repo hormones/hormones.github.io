@@ -1,0 +1,41 @@
+h3 {
+  font-weight: 400;
+}
+
+.tool {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eee;
+}
+
+.form-group {
+  display: flex;
+  padding: 10px 0;
+}
+
+.form-label {
+  padding-right: 10px;
+  min-width: 4em;
+  align-self: center;
+  text-align: right;
+}
+
+.form-item {
+  flex: 1;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+  box-shadow: inset 0 1px 1px rgb(0 0 0 / 8%);
+  transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+}
+
+.form-item:focus {
+  border-color: #66afe9;
+  outline: 0;
+  box-shadow: 0 0 0 .2remrgba(0, 123, 255, .25);
+}
+
+.alone-center {
+  display: block;
+  margin: 0 auto;
+}

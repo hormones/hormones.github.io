@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>图片转BASE64</title>
+    <link rel="stylesheet" type="text/css" href="./index.css">
+</head>
+
+<body style="overflow:hidden;">
+    <div class="form tool">
+        <div class="form-group">
+            <label class="form-label" for="picture">选择图片</label>
+            <input class="form-item" type="file" id="picture" onchange="img2Base64(this)">
+        </div>
+        <div class="form-group">
+            <label class="form-label" for="base64">BASE64</label>
+            <textarea class="form-item" name="base64" id="base64" rows="3"></textarea>
+        </div>
+    </div>
+    <script type="text/javascript" src="./index.js"></script>
+</body>
+
+</html>
